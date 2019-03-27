@@ -1,1 +1,25 @@
+.idea/.name
+.idea/appstore.iml
+.idea/compiler.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/copyright/profiles_settings.xml
+SeekBarLibrary.iml
+local.properties
+app.iml
+OkayNotebook.iml
+.idea
 /build
+#/gradle
+app/src/androidTest/
+app/src/test/
+# Gradle files
+.gradle/*
+gradle.properties
+build/
+basiclib/basiclib.iml
+OkBoard/OkBoard.iml
+app/app.iml
+*.iml
